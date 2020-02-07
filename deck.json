@@ -1,0 +1,592 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "0f5a32f0-48f8-11ea-a583-20c9d0810917",
+            "deck_config_uuid": "0f38905a-48f8-11ea-a583-20c9d0810917",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [
+                "_editor_button_styles.css"
+            ],
+            "mid": "1551357251140",
+            "name": "1. Prescription et des anti infectieux (173)",
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>[[oc1::</div><div>• <b>Pénicilline V</b> (per os)</div><div>• <b>Pénicilline G</b> (IV)</div><div>• <b>Forme retard</b> (benzathine pénicilline)</div><div>]]</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>[[oc1::• Liaison aux <b>protéines de liaison des pénicillines</b> (<b><u>PLP</u></b>, enzymes participant à la synthèse du peptidoglycane)&nbsp;</div><div>]]<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>[[oc3::• <b>Modification des PLP</b> (cocci Gram positif)</div><div>• <b>Production d’enzymes</b> (ß-lactamases) (entérobactéries)</div><div>• <b>Diminution de la perméabilité de la membrane externe</b> (bacilles Gram négatif)<br></div><div>]]</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>[[oc3::<b>Bactéricides:</b>&nbsp;activité temps-dependant</div><div>]]</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>[[oc4::• <u><b>Pénicilline V et G :</b>&nbsp;</u></div><div>-1/2 vie courte</div><div>• <u><b>Benzathine pénicilline G:</b>&nbsp;</u></div><div>-taux sériques efficaces pendant 2 à 3 semaines après injection IM</div><div>• <b><u>Mauvaise diffusion dans:</u></b> (4)</div><div>-<b>SNC</b></div><div>-<b>méninges</b></div><div>-<b>yeux</b></div><div>-<b>os</b></div><div>• <b><u>Elimination urinaire</u></b></div><div>::4]]<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>[[oc6::• <b>Streptocoques</b> (preferer penicilline A)</div><div>• <b>Coryne-bacterium diphteriae</b></div><div>• <b>Fuso-bacterium</b></div><div>• <b>Treponema</b></div><div>]]<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>[[oc7::<b><u>Naturelle:</u></b></div><div>-BGN (ceux qui ont une permeabilité diminué)</div><div><b><u>Acquises:</u></b></div><div>-Staphylocoques</div><div>-pneumocoques</div><div>]]<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>[[oc8::<b><u>Penicilline V per os:</u></b></div><div><b>Prophylaxie</b> des infections pneumococciques chez le splénectomisé</div><div><b><u>Penicilline G IV:</u></b></div><div><b>Neurosyphilis</b></div><div><b><u>Pénicillines retard:</u></b></div><div>• <b>Syphilis</b> primaire, secondaire ou latente (sauf neurosyphilis)</div><div>• <b>Antibioprophylaxie des dermohypodermites</b> bactériennes non nécrosantes</div><div>]]<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>[[oc8::<b>Réactions allergiques</b></div><div>]]<br></div><div><br></div>",
+                        "<span class=\"bigger_font\">Pénicillines G/V</span>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "0,1,0 | n,n,n,n",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>{{c1::</div><div>• <b>Pénicilline V</b> (per os)</div><div>• <b>Pénicilline G</b> (IV)</div><div>• <b>Forme retard</b> (benzathine pénicilline)</div><div>}}</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c1::• Liaison aux <b>protéines de liaison des pénicillines</b> (<b><u>PLP</u></b>, enzymes participant à la synthèse du peptidoglycane)&nbsp;</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div><div><br></div>",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>...</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>{{c2::• <b>Modification des PLP</b> (cocci Gram positif)</div><div>• <b>Production d’enzymes</b> (ß-lactamases) (entérobactéries)</div><div>• <b>Diminution de la perméabilité de la membrane externe</b> (bacilles Gram négatif)<br></div><div>}}</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c2::<b>Bactéricides:</b>&nbsp;activité temps-dependant</div><div>}}</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div><div><br></div>",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>...</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c3::• <u><b>Pénicilline V et G :</b>&nbsp;</u></div><div>-1/2 vie courte</div><div>• <u><b>Benzathine pénicilline G:</b>&nbsp;</u></div><div>-taux sériques efficaces pendant 2 à 3 semaines après injection IM</div><div>• <b><u>Mauvaise diffusion dans:</u></b> (4)</div><div>-<b>SNC</b></div><div>-<b>méninges</b></div><div>-<b>yeux</b></div><div>-<b>os</b></div><div>• <b><u>Elimination urinaire</u></b></div><div>::4}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div><div><br></div>",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>...</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c4::• <b>Streptocoques</b> (preferer penicilline A)</div><div>• <b>Coryne-bacterium diphteriae</b></div><div>• <b>Fuso-bacterium</b></div><div>• <b>Treponema</b></div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div><div><br></div>",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>...</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c5::<b><u>Naturelle:</u></b></div><div>-BGN (ceux qui ont une permeabilité diminué)</div><div><b><u>Acquises:</u></b></div><div>-Staphylocoques</div><div>-pneumocoques</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div><div><br></div>",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>...</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c6::<b><u>Penicilline V per os:</u></b></div><div><b>Prophylaxie</b> des infections pneumococciques chez le splénectomisé</div><div><b><u>Penicilline G IV:</u></b></div><div><b>Neurosyphilis</b></div><div><b><u>Pénicillines retard:</u></b></div><div>• <b>Syphilis</b> primaire, secondaire ou latente (sauf neurosyphilis)</div><div>• <b>Antibioprophylaxie des dermohypodermites</b> bactériennes non nécrosantes</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c6::<b>Réactions allergiques</b></div><div>}}<br></div><div><br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><span class=\"bold_underlined\">Molécules (principales):&nbsp;</span></div><div>{{c27::</div><div>• <b>Pénicilline V</b> (per os)</div><div>• <b>Pénicilline G</b> (IV)</div><div>• <b>Forme retard</b> (benzathine pénicilline)</div><div>}}</div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c27::• Liaison aux <b>protéines de liaison des pénicillines</b> (<b><u>PLP</u></b>, enzymes participant à la synthèse du peptidoglycane)&nbsp;</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>{{c27::• <b>Modification des PLP</b> (cocci Gram positif)</div><div>• <b>Production d’enzymes</b> (ß-lactamases) (entérobactéries)</div><div>• <b>Diminution de la perméabilité de la membrane externe</b> (bacilles Gram négatif)<br></div><div>}}</div><div><br></div><div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c27::<b>Bactéricides:</b>&nbsp;activité temps-dependant</div><div>}}</div></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c27::• <u><b>Pénicilline V et G :</b>&nbsp;</u></div><div>-1/2 vie courte</div><div>• <u><b>Benzathine pénicilline G:</b>&nbsp;</u></div><div>-taux sériques efficaces pendant 2 à 3 semaines après injection IM</div><div>• <b><u>Mauvaise diffusion dans:</u></b> (4)</div><div>-<b>SNC</b></div><div>-<b>méninges</b></div><div>-<b>yeux</b></div><div>-<b>os</b></div><div>• <b><u>Elimination urinaire</u></b></div><div>::4}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c27::• <b>Streptocoques</b> (preferer penicilline A)</div><div>• <b>Coryne-bacterium diphteriae</b></div><div>• <b>Fuso-bacterium</b></div><div>• <b>Treponema</b></div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c27::<b><u>Naturelle:</u></b></div><div>-BGN (ceux qui ont une permeabilité diminué)</div><div><b><u>Acquises:</u></b></div><div>-Staphylocoques</div><div>-pneumocoques</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c27::<b><u>Penicilline V per os:</u></b></div><div><b>Prophylaxie</b> des infections pneumococciques chez le splénectomisé</div><div><b><u>Penicilline G IV:</u></b></div><div><b>Neurosyphilis</b></div><div><b><u>Pénicillines retard:</u></b></div><div>• <b>Syphilis</b> primaire, secondaire ou latente (sauf neurosyphilis)</div><div>• <b>Antibioprophylaxie des dermohypodermites</b> bactériennes non nécrosantes</div><div>}}<br></div><div><br></div><div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c27::<b>Réactions allergiques</b></div><div>}}<br></div><div><br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "xk(+AdM@fh",
+                    "note_model_uuid": "c4f2aed4-4980-11ea-aeb4-7831c1c06c8a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>[[oc2::• <b>Cefpodoxime</b></div><div>• <b>cefixime</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>[[oc2::Liaison aux PLP</div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>[[oc2::<b>Bactéricides</b>: activité temps dépendante</div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>[[oc3::•<b> Modifications des protéines cibles : PLP</b> <b>de faible affinité</b> (cocci gram positif)</div><div>• <b>Production d'enzymes</b> (B lactamases)</div><div>• <b>Diminution de la perméabilité de la membrane externe (BGN)</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>[[oc4::• Biodisponibilité: &lt;50%&nbsp;</div><div>• <b>Absorption digestive saturable</b> à l'origine de concentrations sériques et tissulaires basses</div><div>• <b>Elimination urinaire sous forme active</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>[[oc6::<b>• Cocci gram+</b> (streptocoques)</div><div>• Entérobactéries groupe 1 et 2</div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>[[oc7::• <b>Listeria</b></div><div>• <b>Enterocoques</b></div><div>• <b>Staphyolocoques Méti-R</b></div><div>• <b>Bactéries IC</b></div><div>• <b>P. Aeruginosa</b> est <u>sensible à la ceftazidime </u>et au céfépime mais résistant aux autres Céphalosporines</div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>[[oc8::• <b>C3G orales limitée</b> du fait de leur faible biodisponibilité et impact écologique important</div><div><b><u>Céfixime:</u></b></div><div><b>Pyélonéphrite aigue&nbsp;</b>en relais d'une forme injectable</div><div><b><u>Cefpodoxime:</u></b></div><div>• <b>Sinusite</b> aigue bactérienne de l'adulte</div><div>• <b>Angine à SGA</b></div><div>• <b>OMA de l'enfant</b> (2e intention)</div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>[[oc9::<b>Allergie cutanée</b> (croisée avec pénicilline dans &lt;5% des cas)</div> <div>]]</div>",
+                        "<span class=\"bigger_font\">C3G orales</span>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "0,1,0 | n,n,n,n",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c1::• <b>Cefpodoxime</b></div><div>• <b>cefixime</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c1::Liaison aux PLP</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c1::<b>Bactéricides</b>: activité temps dépendante</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>{{c2::•<b> Modifications des protéines cibles : PLP</b> <b>de faible affinité</b> (cocci gram positif)</div><div>• <b>Production d'enzymes</b> (B lactamases)</div><div>• <b>Diminution de la perméabilité de la membrane externe (BGN)</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c3::• Biodisponibilité: &lt;50%&nbsp;</div><div>• <b>Absorption digestive saturable</b> à l'origine de concentrations sériques et tissulaires basses</div><div>• <b>Elimination urinaire sous forme active</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c4::<b>• Cocci gram+</b> (streptocoques)</div><div>• Entérobactéries groupe 1 et 2</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c5::• <b>Listeria</b></div><div>• <b>Enterocoques</b></div><div>• <b>Staphyolocoques Méti-R</b></div><div>• <b>Bactéries IC</b></div><div>• <b>P. Aeruginosa</b> est <u>sensible à la ceftazidime </u>et au céfépime mais résistant aux autres Céphalosporines</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c6::• <b>C3G orales limitée</b> du fait de leur faible biodisponibilité et impact écologique important</div><div><b><u>Céfixime:</u></b></div><div><b>Pyélonéphrite aigue&nbsp;</b>en relais d'une forme injectable</div><div><b><u>Cefpodoxime:</u></b></div><div>• <b>Sinusite</b> aigue bactérienne de l'adulte</div><div>• <b>Angine à SGA</b></div><div>• <b>OMA de l'enfant</b> (2e intention)</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c7::<b>Allergie cutanée</b> (croisée avec pénicilline dans &lt;5% des cas)</div> <div>}}</div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c27::• <b>Cefpodoxime</b></div><div>• <b>cefixime</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c27::Liaison aux PLP</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c27::<b>Bactéricides</b>: activité temps dépendante</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mécanismes de résistance:</span></div><div>{{c27::•<b> Modifications des protéines cibles : PLP</b> <b>de faible affinité</b> (cocci gram positif)</div><div>• <b>Production d'enzymes</b> (B lactamases)</div><div>• <b>Diminution de la perméabilité de la membrane externe (BGN)</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c27::• Biodisponibilité: &lt;50%&nbsp;</div><div>• <b>Absorption digestive saturable</b> à l'origine de concentrations sériques et tissulaires basses</div><div>• <b>Elimination urinaire sous forme active</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c27::<b>• Cocci gram+</b> (streptocoques)</div><div>• Entérobactéries groupe 1 et 2</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c27::• <b>Listeria</b></div><div>• <b>Enterocoques</b></div><div>• <b>Staphyolocoques Méti-R</b></div><div>• <b>Bactéries IC</b></div><div>• <b>P. Aeruginosa</b> est <u>sensible à la ceftazidime </u>et au céfépime mais résistant aux autres Céphalosporines</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c27::• <b>C3G orales limitée</b> du fait de leur faible biodisponibilité et impact écologique important</div><div><b><u>Céfixime:</u></b></div><div><b>Pyélonéphrite aigue&nbsp;</b>en relais d'une forme injectable</div><div><b><u>Cefpodoxime:</u></b></div><div>• <b>Sinusite</b> aigue bactérienne de l'adulte</div><div>• <b>Angine à SGA</b></div><div>• <b>OMA de l'enfant</b> (2e intention)</div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c27::<b>Allergie cutanée</b> (croisée avec pénicilline dans &lt;5% des cas)</div> <div>}}</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "E^u[2Rnxbv",
+                    "note_model_uuid": "c4f2aed4-4980-11ea-aeb4-7831c1c06c8a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>[[oc1::• <b>O-floxacine, cipro-floxacine</b></div><div>• Plus récente, avec activité <u>antipneumococcique</u>: <b>lévo-floxacine, moxi-flocacine</b></div> <div>::4]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>[[oc2::<u>Inhibition</u> de l'enlongation de l'<b>ADN bactérien</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>[[oc2::<b>Bactéricide</b></div><div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>[[oc4::• <b>Biodisponibilité</b>++</div><div>• <b>Distribution très large</b></div><div>• <b>Concentration tissulaires et IC élevées</b></div><div>• <b>Elimination sous forme inchangée dans les urines</b> (+ biliaire pour ciprofloxacine)</div> <div>::4]]</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>[[oc6::• <b>Enterobactéries</b></div><div>• <b>Bactéries IC</b></div><div>• <b>Staphylocoques méti S</b></div><div>• H. <b>Influenzae</b></div><div>• M. <b>Catarrhalis</b></div><div>• P. <b>Aeruginosa</b> (ciprofloxacine)</div><div>• <b>Pneumocoque</b> (levofloxacine et moxifloxacine mais en pratique indication très réduite)</div> <div>::7]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>[[oc7::<b><u>Résistance naturelle:</u></b></div><div>• <b>Entérocoques</b></div><div>• <b>L monocytogenes</b></div><div>• La plupart des <b>bactéries anaérobies</b> (sauf moxifloxacine)</div><div><u style=\"\"><b>Résistance acquises:</b></u></div><div>• <b>Staph Méti R</b></div><div>• <b>Gonocoque</b></div><div><br><b><u>NB:</u></b></div><div>• <u>Pas de monothérapie</u> dans <b>P aeruginosa et Staph aureus</b></div><div>• <u>Pas de fluoroquinolone</u> pour une infection à <b>enterobacteries résistance à l'acide nalidixique ou norfloxacine</b> (car signe un premier niveau de résistance aux quinolones)</div> <div>::5]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>[[oc8::NB :&nbsp;<span class=\"bg_yellow\"><b>Essentiellement après documentation, rarement probabiliste</b></span>&nbsp;(sauf pyélonéphrite et infections urinaires masculines)</div><div><br></div><div>• <b>Infections urinaires</b> (pyélonéphrite, infections urinaires masculines)</div><div>• <b>Infections génitales hautes</b> (salpingite, endométrite)</div><div>• <b>Infections digestives</b> (fièvre thypoide mais résistance acquise++, diarrhée aigue bactérienne à bactérie invasive)</div><div>• <b>Infections ORL</b> en <u>dernier recours</u> (quinolones antipneumococciques mais en dernier recours++)</div><div><b>• Légionellose</b>: <u>uniquement si grave</u> (soins intensif, immunodéprimé)&nbsp;<b>role infections respiratoire basse limitée++ </b>(pneumonie à pneumocoque sujet allergique à pénicilline)</div> <div>::5]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>[[oc9::• <b>Neuropsychiques</b> (convulsions, confusion chez les sujets agés)</div><div><div>•&nbsp;<b>Allongement de l'intervalle QTc</b></div><div><span class=\"bold_underlined\"></span></div></div><div>• <b>hépatite</b></div><div>• <b>Phototoxicité</b></div><div>• <b>Tendinopathies</b> avec risque de rupture tendineuses</div><div>::5]]<br></div>",
+                        "<span class=\"bigger_font\">Fluoroquinolones sytémiques</span>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "0,1,0 | n,n,n,n",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c1::• <b>O-floxacine, cipro-floxacine</b></div><div>• Plus récente, avec activité <u>antipneumococcique</u>: <b>lévo-floxacine, moxi-flocacine</b></div> <div>::4}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c2::<u>Inhibition</u> de l'enlongation de l'<b>ADN bactérien</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c2::<b>Bactéricide</b></div><div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c3::• <b>Biodisponibilité</b>++</div><div>• <b>Distribution très large</b></div><div>• <b>Concentration tissulaires et IC élevées</b></div><div>• <b>Elimination sous forme inchangée dans les urines</b> (+ biliaire pour ciprofloxacine)</div> <div>::4}}</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c4::• <b>Enterobactéries</b></div><div>• <b>Bactéries IC</b></div><div>• <b>Staphylocoques méti S</b></div><div>• H. <b>Influenzae</b></div><div>• M. <b>Catarrhalis</b></div><div>• P. <b>Aeruginosa</b> (ciprofloxacine)</div><div>• <b>Pneumocoque</b> (levofloxacine et moxifloxacine mais en pratique indication très réduite)</div> <div>::7}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c5::<b><u>Résistance naturelle:</u></b></div><div>• <b>Entérocoques</b></div><div>• <b>L monocytogenes</b></div><div>• La plupart des <b>bactéries anaérobies</b> (sauf moxifloxacine)</div><div><u style=\"\"><b>Résistance acquises:</b></u></div><div>• <b>Staph Méti R</b></div><div>• <b>Gonocoque</b></div><div><br><b><u>NB:</u></b></div><div>• <u>Pas de monothérapie</u> dans <b>P aeruginosa et Staph aureus</b></div><div>• <u>Pas de fluoroquinolone</u> pour une infection à <b>enterobacteries résistance à l'acide nalidixique ou norfloxacine</b> (car signe un premier niveau de résistance aux quinolones)</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c6::NB :&nbsp;<span class=\"bg_yellow\"><b>Essentiellement après documentation, rarement probabiliste</b></span>&nbsp;(sauf pyélonéphrite et infections urinaires masculines)</div><div><br></div><div>• <b>Infections urinaires</b> (pyélonéphrite, infections urinaires masculines)</div><div>• <b>Infections génitales hautes</b> (salpingite, endométrite)</div><div>• <b>Infections digestives</b> (fièvre thypoide mais résistance acquise++, diarrhée aigue bactérienne à bactérie invasive)</div><div>• <b>Infections ORL</b> en <u>dernier recours</u> (quinolones antipneumococciques mais en dernier recours++)</div><div><b>• Légionellose</b>: <u>uniquement si grave</u> (soins intensif, immunodéprimé)&nbsp;<b>role infections respiratoire basse limitée++ </b>(pneumonie à pneumocoque sujet allergique à pénicilline)</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...<br></div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c7::• <b>Neuropsychiques</b> (convulsions, confusion chez les sujets agés)</div><div><div>•&nbsp;<b>Allongement de l'intervalle QTc</b></div><div><span class=\"bold_underlined\"></span></div></div><div>• <b>hépatite</b></div><div>• <b>Phototoxicité</b></div><div>• <b>Tendinopathies</b> avec risque de rupture tendineuses</div><div>::5}}<br></div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c27::• <b>O-floxacine, cipro-floxacine</b></div><div>• Plus récente, avec activité <u>antipneumococcique</u>: <b>lévo-floxacine, moxi-flocacine</b></div> <div>::4}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c27::<u>Inhibition</u> de l'enlongation de l'<b>ADN bactérien</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c27::<b>Bactéricide</b></div><div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c27::• <b>Biodisponibilité</b>++</div><div>• <b>Distribution très large</b></div><div>• <b>Concentration tissulaires et IC élevées</b></div><div>• <b>Elimination sous forme inchangée dans les urines</b> (+ biliaire pour ciprofloxacine)</div> <div>::4}}</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c27::• <b>Enterobactéries</b></div><div>• <b>Bactéries IC</b></div><div>• <b>Staphylocoques méti S</b></div><div>• H. <b>Influenzae</b></div><div>• M. <b>Catarrhalis</b></div><div>• P. <b>Aeruginosa</b> (ciprofloxacine)</div><div>• <b>Pneumocoque</b> (levofloxacine et moxifloxacine mais en pratique indication très réduite)</div> <div>::7}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c27::<b><u>Résistance naturelle:</u></b></div><div>• <b>Entérocoques</b></div><div>• <b>L monocytogenes</b></div><div>• La plupart des <b>bactéries anaérobies</b> (sauf moxifloxacine)</div><div><u style=\"\"><b>Résistance acquises:</b></u></div><div>• <b>Staph Méti R</b></div><div>• <b>Gonocoque</b></div><div><br><b><u>NB:</u></b></div><div>• <u>Pas de monothérapie</u> dans <b>P aeruginosa et Staph aureus</b></div><div>• <u>Pas de fluoroquinolone</u> pour une infection à <b>enterobacteries résistance à l'acide nalidixique ou norfloxacine</b> (car signe un premier niveau de résistance aux quinolones)</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c27::NB :&nbsp;<span class=\"bg_yellow\"><b>Essentiellement après documentation, rarement probabiliste</b></span>&nbsp;(sauf pyélonéphrite et infections urinaires masculines)</div><div><br></div><div>• <b>Infections urinaires</b> (pyélonéphrite, infections urinaires masculines)</div><div>• <b>Infections génitales hautes</b> (salpingite, endométrite)</div><div>• <b>Infections digestives</b> (fièvre thypoide mais résistance acquise++, diarrhée aigue bactérienne à bactérie invasive)</div><div>• <b>Infections ORL</b> en <u>dernier recours</u> (quinolones antipneumococciques mais en dernier recours++)</div><div><b>• Légionellose</b>: <u>uniquement si grave</u> (soins intensif, immunodéprimé)&nbsp;<b>role infections respiratoire basse limitée++ </b>(pneumonie à pneumocoque sujet allergique à pénicilline)</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c27::• <b>Neuropsychiques</b> (convulsions, confusion chez les sujets agés)</div><div><div>•&nbsp;<b>Allongement de l'intervalle QTc</b></div><div><span class=\"bold_underlined\"></span></div></div><div>• <b>hépatite</b></div><div>• <b>Phototoxicité</b></div><div>• <b>Tendinopathies</b> avec risque de rupture tendineuses</div><div>::5}}<br></div>"
+                    ],
+                    "flags": 0,
+                    "guid": "Ht5JN[n0WM",
+                    "note_model_uuid": "c4f2aed4-4980-11ea-aeb4-7831c1c06c8a",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "data": "",
+                    "fields": [
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>[[oc1::<br></div> <div>C'est une association <b>sulfamide </b>(sulfaméthoxazole)<b>+ triméthoprime</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>[[oc2::<br></div> <div>Inhibition du <b>métabolisme de l'acide folique</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>[[oc2::<br></div> <div><b>Bactéricide</b></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>[[oc4::<br></div> <div>• <b>Biodisponible</b>++ par <u>voie orale</u></div><div>• Excellente distribution, notamment <b>LCS et prostate</b></div><div>• <b>Metabolisme hepatique</b></div><div>• <b>Elimination urinaire</b></div> <div>]]</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>[[oc6::<br></div> <div>• <b>Enterobacteries</b></div><div>• <b>L monocytogenes</b></div><div>• Staphylocoques</div><div>• Pneumocystis</div><div>• Jirovecii</div> <div>::5]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>[[oc7::<br></div> <div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Résistance naturelle:&nbsp;</span></div><div>• <b>anaerobie</b><br></div><div>• <b>P. Aeruginosa</b></div><div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Resistance acquises:</span></div><div>• Pneumocoque&nbsp;<br></div><div>• Enterobacteries</div><div><br></div> <div>]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>[[oc8::<br></div> <div>• Après documentation dans <b>infections urinaires</b></div><div>• Prevention/ttt de la <b>pneumocystose</b></div><div>• Alternative Amox pour le <b>ttt des infections à Listeria Monocytogenes</b></div> <div>::3]]</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>[[oc9::<br></div> <div>• <b>Allergies</b></div><div>• <b>Cytopénies</b></div><div>• <b>Insuffisance rénale</b></div> <div>::3]]</div>",
+                        "<span class=\"bigger_font\">Cotrimoxazole</span>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "0,1,0 | n,n,n,n",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c1::<br></div> <div>C'est une association <b>sulfamide </b>(sulfaméthoxazole)<b>+ triméthoprime</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c2::<br></div> <div>Inhibition du <b>métabolisme de l'acide folique</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c2::<br></div> <div><b>Bactéricide</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c3::<br></div> <div>• <b>Biodisponible</b>++ par <u>voie orale</u></div><div>• Excellente distribution, notamment <b>LCS et prostate</b></div><div>• <b>Metabolisme hepatique</b></div><div>• <b>Elimination urinaire</b></div> <div>}}</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c4::<br></div> <div>• <b>Enterobacteries</b></div><div>• <b>L monocytogenes</b></div><div>• Staphylocoques</div><div>• Pneumocystis</div><div>• Jirovecii</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c5::<br></div> <div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Résistance naturelle:&nbsp;</span></div><div>• <b>anaerobie</b><br></div><div>• <b>P. Aeruginosa</b></div><div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Resistance acquises:</span></div><div>• Pneumocoque&nbsp;<br></div><div>• Enterobacteries</div><div><br></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c6::<br></div> <div>• Après documentation dans <b>infections urinaires</b></div><div>• Prevention/ttt de la <b>pneumocystose</b></div><div>• Alternative Amox pour le <b>ttt des infections à Listeria Monocytogenes</b></div> <div>::3}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>...</div>",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>...</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>...</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c7::<br></div> <div>• <b>Allergies</b></div><div>• <b>Cytopénies</b></div><div>• <b>Insuffisance rénale</b></div> <div>::3}}</div>",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Molécules (principales):</span></div><div>{{c27::<br></div> <div>C'est une association <b>sulfamide </b>(sulfaméthoxazole)<b>+ triméthoprime</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Mode d'action:</span></div><div>{{c27::<br></div> <div>Inhibition du <b>métabolisme de l'acide folique</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacodynamie:</span></div><div>{{c27::<br></div> <div><b>Bactéricide</b></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Pharmacocinétique:</span></div><div>{{c27::<br></div> <div>• <b>Biodisponible</b>++ par <u>voie orale</u></div><div>• Excellente distribution, notamment <b>LCS et prostate</b></div><div>• <b>Metabolisme hepatique</b></div><div>• <b>Elimination urinaire</b></div> <div>}}</div> <div><br></div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Spectre d'activité usuel \"utile\":</span></div><div>{{c27::<br></div> <div>• <b>Enterobacteries</b></div><div>• <b>L monocytogenes</b></div><div>• Staphylocoques</div><div>• Pneumocystis</div><div>• Jirovecii</div> <div>::5}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Especes resistantes:</span></div><div>{{c27::<br></div> <div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Résistance naturelle:&nbsp;</span></div><div>• <b>anaerobie</b><br></div><div>• <b>P. Aeruginosa</b></div><div><span style=\"color: rgb(179, 7, 7); font-weight: bold; text-decoration-line: underline;\">Resistance acquises:</span></div><div>• Pneumocoque&nbsp;<br></div><div>• Enterobacteries</div><div><br></div> <div>}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">Principales indications:</span></div><div>{{c27::<br></div> <div>• Après documentation dans <b>infections urinaires</b></div><div>• Prevention/ttt de la <b>pneumocystose</b></div><div>• Alternative Amox pour le <b>ttt des infections à Listeria Monocytogenes</b></div> <div>::3}}</div> <div><br></div> <div><span style=\"color: rgb(33, 32, 148); font-weight: bold; text-decoration-line: underline;\">effets indésirables:</span></div><div>{{c27::<br></div> <div>• <b>Allergies</b></div><div>• <b>Cytopénies</b></div><div>• <b>Insuffisance rénale</b></div> <div>::3}}</div>"
+                    ],
+                    "flags": 0,
+                    "guid": "wYvr>ff<JH",
+                    "note_model_uuid": "c4f2aed4-4980-11ea-aeb4-7831c1c06c8a",
+                    "tags": []
+                }
+            ]
+        }
+    ],
+    "crowdanki_uuid": "ea46cfa6-498c-11ea-b14c-7831c1c06c8a",
+    "deck_config_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoAgain": 0,
+            "autoAlert": 0,
+            "autoAnswer": 180,
+            "autoplay": true,
+            "crowdanki_uuid": "c4f2716c-4980-11ea-a401-7831c1c06c8a",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.1
+            },
+            "maxTaken": 180,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    6,
+                    7
+                ],
+                "order": 1,
+                "perDay": 999,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 999
+            },
+            "timer": 1
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "_editor_button_styles.css"
+    ],
+    "name": "DECK",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c4f2aed4-4980-11ea-aeb4-7831c1c06c8a",
+            "css": "@import url(\"_editor_button_styles.css\");\n/* general card style */\n\nhtml {\n  /* scrollbar always visible in order to prevent shift when revealing answer*/\n  overflow-y: scroll;\n}\n\n.card {\n  font-family: \"Helvetica LT Std\", Helvetica, Arial, Sans;\n  font-size: 115%;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n/* general layout */\n\n.text {\n  /* center left-aligned text on card */\n  display: inline-block;\n  align: center;\n  text-align: left;\n  margin: auto;\n  max-width: 40em;\n}\n\n.hidden {\n  /* guarantees a consistent width across front and back */\n  font-weight: bold;\n  display: block;\n  line-height:0;\n  height: 0;\n  overflow: hidden;\n  visibility: hidden;\n}\n\n.title {\n  font-weight: bold;\n  font-size: 1.1em;\n  margin-bottom: 1em;\n  text-align: center;\n}\n\n/* clozes */\n\n.cloze {\n  /* regular cloze deletion */\n  font-weight: normal;\n  color: #000113;\n}\n\n/* original text reveal hint */\n\n.fullhint a {\n  color: #0048FF;\n}\n\n.card21 .fullhint{\n  /* no need to display hint on last card */\n  display:none;\n}\n\n/* additional fields */\n\n.extra{\n  margin-top: 0.5em;\n  margin: auto;\n  max-width: 40em;\n}\n\n.extra-entry{\n  margin-top: 0.8em;\n  font-size: 0.9em;\n  text-align:left;\n}\n\n.extra-descr{\n  margin-bottom: 0.2em;\n  font-weight: bold;\n  font-size: 1em;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Original",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Title",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "external_source",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "external_page",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Remarks",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Sources",
+                    "ord": 5,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Settings",
+                    "ord": 6,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text1",
+                    "ord": 7,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text2",
+                    "ord": 8,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text3",
+                    "ord": 9,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text4",
+                    "ord": 10,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text5",
+                    "ord": 11,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text6",
+                    "ord": 12,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text7",
+                    "ord": 13,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text8",
+                    "ord": 14,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text9",
+                    "ord": 15,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text10",
+                    "ord": 16,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text11",
+                    "ord": 17,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text12",
+                    "ord": 18,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text13",
+                    "ord": 19,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text14",
+                    "ord": 20,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text15",
+                    "ord": 21,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text16",
+                    "ord": 22,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text17",
+                    "ord": 23,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text18",
+                    "ord": 24,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text19",
+                    "ord": 25,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text20",
+                    "ord": 26,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text21",
+                    "ord": 27,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text22",
+                    "ord": 28,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text23",
+                    "ord": 29,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text24",
+                    "ord": 30,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text25",
+                    "ord": 31,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Text26",
+                    "ord": 32,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Full",
+                    "ord": 33,
+                    "rtl": false,
+                    "size": 12,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze (overlapping)",
+            "sortf": 1,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "<div class=\"back\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Text21}}\n    {{cloze:Text22}}\n    {{cloze:Text23}}\n    {{cloze:Text24}}\n    {{cloze:Text25}}\n    {{cloze:Text26}}\n    {{cloze:Full}}<br><br><br><br>\n\n<a href='javascript:pycmd(\"pdfjs319501851{{text:external_source}}319501851{{text:external_page}}\");'>{{external_source}}</a>\n\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\">\n    {{#Remarks}}\n    <div class=\"extra-entry\">\n      <div class=\"extra-descr\">Remarks</div><div>{{Remarks}}</div>\n    </div>\n    {{/Remarks}}\n    {{#Sources}}\n    <div class=>\n      <div class=\"extra-descr\">Sources</div><div>{{Sources}}</div>\n    </div>\n    {{/Sources}}\n  </div>\n</div>\n<script>\n  // remove cloze syntax from revealed hint\n  var hint = document.querySelector('.fullhint>[id^=\"hint\"]')\n  var html = hint.innerHTML.replace(/\\[\\[oc(\\d+)::(.*?)(::(.*?))?\\]\\]/mg, \"$2\")\n  hint.innerHTML = html\n  // scroll to cloze\n  document.addEventListener('DOMContentLoaded', function() {\n    setTimeout(function(){\n      const cloze1 = document.getElementsByClassName(\"cloze\")[0];\n      const rect = cloze1.getBoundingClientRect();\n      const absTop = rect.top + window.pageYOffset;\n      const absBot = rect.bottom + window.pageYOffset;\n      if (absBot >= window.innerHeight) {\n        const height = rect.top - rect.bottom\n        const middle = absTop - (window.innerHeight/2) - (height/2);\n        window.scrollTo(0, middle);};\n    }, 1);\n  }, false);\n</script>",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "cloze-ol",
+                    "ord": 0,
+                    "qfmt": "<div class=\"front\">\n  {{#Title}}<div class=\"title\">{{Title}}</div>{{/Title}}\n  <div class=\"text\">\n    {{cloze:Text1}}\n    {{cloze:Text2}}\n    {{cloze:Text3}}\n    {{cloze:Text4}}\n    {{cloze:Text5}}\n    {{cloze:Text6}}\n    {{cloze:Text7}}\n    {{cloze:Text8}}\n    {{cloze:Text9}}\n    {{cloze:Text10}}\n    {{cloze:Text11}}\n    {{cloze:Text12}}\n    {{cloze:Text13}}\n    {{cloze:Text14}}\n    {{cloze:Text15}}\n    {{cloze:Text16}}\n    {{cloze:Text17}}\n    {{cloze:Text18}}\n    {{cloze:Text19}}\n    {{cloze:Text20}}\n    {{cloze:Text21}}\n    {{cloze:Text22}}\n    {{cloze:Text23}}\n    {{cloze:Text24}}\n    {{cloze:Text25}}\n    {{cloze:Text26}}\n    {{cloze:Full}}<br><br><br><br>\n\n<a href='javascript:pycmd(\"pdfjs319501851{{text:external_source}}319501851{{text:external_page}}\");'>{{external_source}}</a>\n\n\n\n    <div class=\"hidden\">{{Original}}</div>\n  </div>\n  <div class=\"extra\"><hr></div>\n  <div class=\"text\"><div class=\"fullhint\">{{hint:Original}}</div></div>\n  <div class=\"extra\"><a "
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": []
+}
